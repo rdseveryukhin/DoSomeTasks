@@ -27,10 +27,15 @@ The two errors are the words be (no stress at all) and fouNd (wrong stress). The
 Sample Input 1:
 
 4
+
 cAnnot
+
 cannOt
+
 fOund
+
 pAge
+
 thE pAge cAnnot be fouNd
 
 Sample Output 1:
@@ -40,10 +45,15 @@ Sample Output 1:
 Sample Input 2:
 
 4
+
 cAnnot
+
 cannOt
+
 fOund
+
 pAge
+
 The PAGE cannot be found
 
 Sample Output 2:
