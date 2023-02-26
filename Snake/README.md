@@ -7,10 +7,12 @@ Output format
 Output the resulting array, leaving exactly 4 characters for each element.
 
 Sample Input:
+
 4 5
 
 Sample Output:
-   1   2   3   4   5
+  
+  1   2   3   4   5
    
   14  15  16  17   6
   
