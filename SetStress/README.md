@@ -32,9 +32,11 @@ cannOt
 fOund
 pAge
 thE pAge cAnnot be fouNd
+
 Sample Output 1:
 
 2
+
 Sample Input 2:
 
 4
@@ -43,6 +45,7 @@ cannOt
 fOund
 pAge
 The PAGE cannot be found
+
 Sample Output 2:
 
 4
