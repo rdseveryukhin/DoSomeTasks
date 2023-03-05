@@ -12,9 +12,7 @@ auto res = map_reduce(p, q, f1, f2, num);
 should be equivalent to the result of the following code:
 
 auto res = f1(*p);
-
 while(++p != q)
-
      res = f2(res, f1(*p));
      
 only the execution of this code should be split into num threads. To do this, you can split the range [p,q) into num parts, perform the calculation for each part in a separate thread, and merge the results from all threads.
