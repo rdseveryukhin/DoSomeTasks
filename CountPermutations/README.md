@@ -1,0 +1,1 @@
+Write a template function count_permutations that takes some sequence and calculates the number of permutations of this sequence (equal sequences count as one permutation) that do not have consecutive identical elements.
